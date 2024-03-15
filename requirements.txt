@@ -124,7 +124,7 @@ streamlit==1.30.0
 sympy==1.12
 tb-nightly==2.16.0a20240129
 tenacity==8.2.3
-tensorflow-intel==2.14.0
+tensorflow-intel
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 tf_keras-nightly==2.16.0.dev2024012910
